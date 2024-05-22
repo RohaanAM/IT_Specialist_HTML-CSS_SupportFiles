@@ -6,10 +6,12 @@
 p {
     color: navy;
 }
+/*the backgroundcolor extends across the page, so, we have commented it for now.
+*/
 figcaption {
     color: navy;
     font-weight:bold;
-    background-color:aqua;
+   /*background-color:aqua;*/ ;
 }
 a {
     text-decoration:none;
