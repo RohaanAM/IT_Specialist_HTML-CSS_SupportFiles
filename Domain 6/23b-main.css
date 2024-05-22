@@ -12,7 +12,7 @@ a {
 figcaption {
     color: navy;
     font-weight: bold;
-    background-color: aqua;
+    /*background-color: aqua;*/
 }
 a:hover {
     text-decoration:underline;
